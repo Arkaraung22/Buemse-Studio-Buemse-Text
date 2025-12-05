@@ -1,0 +1,7 @@
+{
+  "name": "Burmese Voice Essay Assistant",
+  "description": "A React application that records spoken audio and transcribes/translates it into formal Burmese text suitable for essays using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
